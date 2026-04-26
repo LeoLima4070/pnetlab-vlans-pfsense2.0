@@ -125,7 +125,7 @@ Cada VLAN possui:
 **Figura 2:** VLANs configuradas no pfSense
 
 <p align="center">
-  <img src="prints/Interfaces_VLANS.png" width="750"/>
+  <img src="prints/Interfaces_VLANs.png" width="750"/>
 </p>
 
 **Figura 3:** Interfaces lógicas para criadas para as VLANs no pfSense
