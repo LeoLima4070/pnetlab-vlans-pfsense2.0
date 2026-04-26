@@ -6,8 +6,6 @@ Este projeto tem como objetivo a prática e o aprimoramento de conhecimentos em 
 
 ## Topologia
 
-## Topologia
-
 <p align="center">
   <img src="topologia/topologia.png" width="750"/>
 </p>
