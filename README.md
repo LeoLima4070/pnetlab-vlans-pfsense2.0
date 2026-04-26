@@ -6,6 +6,8 @@ Este projeto tem como objetivo a prática e o aprimoramento de conhecimentos em 
 
 ## Topologia
 
+![Topologia da rede](topologia/topologia.png)
+
 A rede foi estruturada com um **switch core** como elemento central, responsável por interligar:
 
 - 3 switches de acesso  
