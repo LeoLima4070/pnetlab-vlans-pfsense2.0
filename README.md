@@ -6,7 +6,14 @@ Este projeto tem como objetivo a prática e o aprimoramento de conhecimentos em 
 
 ## Topologia
 
-![Topologia da rede](topologia/topologia.png)
+## Topologia
+
+<p align="center">
+  <img src="topologia/topologia.png" width="750"/>
+</p>
+
+**Figura 1:** Topologia da rede implementada no PNETLab com pfSense, switches e MikroTik.
+
 
 A rede foi estruturada com um **switch core** como elemento central, responsável por interligar:
 
@@ -146,3 +153,4 @@ A ideia principal foi aplicar na prática os conceitos estudados e entender como
 ## Autor
 
 **Leandro Lima** – Estudante de Redes
+
