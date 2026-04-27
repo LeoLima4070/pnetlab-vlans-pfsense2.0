@@ -13,7 +13,7 @@ name Visitantes
 vlan 40
 name Servidores
 ```
-Os comandos acima cria as VLANs no switch-core
+**cria as VLANs (10,20,30,40) no switch-core**
 
 ## Configuração das interfaces de acesso e interface trunk
 

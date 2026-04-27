@@ -4,7 +4,7 @@
 vlan 40
 name Servidores
 ```
-Cria VLAN 40 (Servidores)
+**Cria VLAN 40 (Servidores)**
 
 ```bash
 interface Ethernet0/0

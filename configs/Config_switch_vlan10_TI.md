@@ -4,7 +4,7 @@
 vlan 10
 name TI
 ```
-Cria VLAN 10 (TI)
+**Cria VLAN 10 (TI)**
 
 ```bash
 interface Ethernet0/1

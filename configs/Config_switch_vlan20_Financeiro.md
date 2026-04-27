@@ -4,7 +4,7 @@
 vlan 20
 name Financeiro
 ```
-Cria VLAN 20 (Financeiro)
+**Cria VLAN 20 (Financeiro)**
 
 ```bash
 interface Ethernet0/1
