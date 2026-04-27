@@ -119,13 +119,13 @@ Cada VLAN possui:
 - VLAN 40 – Servidores  
 
 <p align="center">
-  <img src="prints/VLANs_configuradas.png" width="750"/>
+  <img src="prints_configs/VLANs_configuradas.png" width="750"/>
 </p>
 
 **Figura 2:** VLANs configuradas no pfSense
 
 <p align="center">
-  <img src="prints/Interfaces_VLANs.png" width="750"/>
+  <img src="prints_configs/Interfaces_VLANs.png" width="750"/>
 </p>
 
 **Figura 3:** Interfaces lógicas para criadas para as VLANs no pfSense
@@ -151,7 +151,7 @@ As regras seguem:
 - Demais acessos bloqueados  
 
 <p align="center">
-  <img src="prints/Regras_VLAN_TI.png" width="750"/>
+  <img src="prints_configs/Regras_VLAN_TI.png" width="750"/>
 </p>
 
 **Figura 4:** Regras configuradas no pfSense para a VLAN TI
@@ -165,7 +165,7 @@ As regras seguem:
 - ICMP permitido  
 
 <p align="center">
-  <img src="prints/Regras_VLAN_Financeiro.png" width="750"/>
+  <img src="prints_configs/Regras_VLAN_Financeiro.png" width="750"/>
 </p>
 
 **Figura 5:** Regras configuradas no pfSense para a VLAN Financeiro
@@ -177,7 +177,7 @@ As regras seguem:
 - Bloqueio total das VLANs internas  
 
 <p align="center">
-  <img src="prints/Regras_VLAN_Visitantes.png" width="750"/>
+  <img src="prints_configs/Regras_VLAN_Visitantes.png" width="750"/>
 </p>
 
 **Figura 6:** Regras configuradas no pfSense para a VLAN Visitantes
@@ -190,7 +190,7 @@ As regras seguem:
 - Acesso permitido conforme regras específicas  
 
 <p align="center">
-  <img src="prints/Regras_VLAN_Servidores.png" width="750"/>
+  <img src="prints_configs/Regras_VLAN_Servidores.png" width="750"/>
 </p>
 
 **Figura 7:** Regras configuradas no pfSense para a VLAN Servidores
