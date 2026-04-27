@@ -1,4 +1,4 @@
-# Projeto de Redes com pfSense
+# Projeto de Redes segmentadas por VLANs com pfSense
 
 Este projeto tem como objetivo a prática e o aprimoramento de conhecimentos em redes de computadores utilizando o **pfSense**. O foco principal é a implementação de **VLANs** e a criação de **regras básicas de firewall**, permitindo a segmentação da rede e o controle de tráfego entre diferentes setores.
 
