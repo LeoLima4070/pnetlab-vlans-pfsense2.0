@@ -1,4 +1,4 @@
-# Configuração switch de acesso VLAN TI
+# Configuração switch de acesso VLAN 10 TI
 
 ```bash
 vlan 10
@@ -19,7 +19,7 @@ interface Ethernet0/2
  switchport access vlan 10
  switchport mode access
 ```
-Configura as interfaces **Ethernet0/2** e **Ethernet0/3** conectadas aos hosts da VLAN TI como modo **acess** na VLAN 10
+Configura as interfaces **Ethernet0/1** e **Ethernet0/2** conectadas aos hosts da VLAN TI como modo **acess** na VLAN 10
 
 ```bash
 interface Ethernet0/3
